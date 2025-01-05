@@ -7,7 +7,7 @@ export default function Work() {
       {/* Background Image */}
       <div className="fixed z-[-1] w-[100vw] h-[100vh]">
         <Image
-          src={"/images/bg-img.jpg"}
+          src={"/images/pexels-art.jpg"}
           alt="background image"
           layout="fill"
           objectFit="cover"
