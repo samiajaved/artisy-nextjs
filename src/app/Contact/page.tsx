@@ -6,7 +6,9 @@ export default function Contact(){
         <div >
         
             <div className="fixed z-[-1] w-[100vw] h-[100vh]" >
+
             <Image src={"/images/pixels-art.jpg"} alt=" background image" priority fill style={{ objectFit: 'cover' }}/>   
+            <Image src={"/images/pexels-art.jpg"} alt=" background image" priority fill style={{ objectFit: 'cover' }}/>   
             </div>
 
             <div className=" h-[1200px] md:h-[700px] w-full  bg-black bg-opacity-90 ">
